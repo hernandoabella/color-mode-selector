@@ -3,3 +3,42 @@ body {
   color: #333;
 }
 
+.colorsContainer {
+  background: #333;
+  width: 100px;
+  height: 150px;
+  border-radius: 5%;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+}
+
+.color {
+  width: 30px;
+  height: 30px;
+  float: left;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.color1 {
+  background: #8fbc12;
+}
+
+.color2 {
+  background: #d715b0;
+}
+
+.color3 {
+  background: #e8136f;
+}
+
+.color4 {
+  background: #51ffe8;
+}
+
+.color5 {
+  background: #f1501f;
+}
+
+.color6 {
+  background: #0dff21;
+}
